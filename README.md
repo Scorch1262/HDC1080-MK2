@@ -1,2 +1,9 @@
 # Testboard-HDC1080-MK2
-Testboard mit UART Schnittstelle für HDC1080 (Temperatur und Luftfeuchtigkeit)
+
+ Funktionen (Software V2.0) [F]:
+- MCC UART Funktion
+- MCC I2C Funktion
+- Ausgabe der Temperatur über UART
+- Ausgabe der Luftfeuchtigkeit über UART
+- Neuer Versuch
+ - Auslesen beider Werte hintereinander
