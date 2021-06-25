@@ -5,5 +5,4 @@
 - MCC I2C Funktion
 - Ausgabe der Temperatur über UART
 - Ausgabe der Luftfeuchtigkeit über UART
-- Neuer Versuch
- - Auslesen beider Werte hintereinander
+- Auslesen beider Werte hintereinander
